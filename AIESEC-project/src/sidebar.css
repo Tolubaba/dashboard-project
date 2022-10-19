@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Amita:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sidesection{
+    background: #FBFAFF;
+    display: flex;
+    flex-direction: column;
+
+}
+.sidesectiondiv{
+    width: 80%;
+    background: #FBFAFF;
+    margin: 0 auto;
+}
+
+.side{
+    
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 30px;
+    
+
+
+}
+.side img{
+    width: 30px;
+    display: block;
+}
+.sidearticle {
+    margin-top: 15px;
+}
+
+.sidesectiondiv h2{
+font-family: 'Amita';
+font-weight: 700;
+}

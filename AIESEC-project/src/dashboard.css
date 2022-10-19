@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    background: #FDFCFC;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.03);
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 10px;
+    padding-left: 20px;
+}
+
+.navdiv{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

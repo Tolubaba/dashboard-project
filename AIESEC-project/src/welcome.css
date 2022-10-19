@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3{
+    font-family: 'Archivo';
+    font-weight: 600;
+    color: #1F1D1D;
+}
+
+.welcome{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+}
+
+.welcome p{
+    color: #4A4A4A;
+}
+.account{
+    display: flex;
+    gap: 20px;
+    
+}
+.article{
+
+    align-items: center;
+    background: #FFFFFF;
+    border: 0.913377px solid #F2F3F3;
+     border-radius: 4px;
+     padding: 0px 10px;
+     display: flex;
+     padding: 20px;
+     gap: 10px;
+    font-family: 'Archivo';
+        font-weight: 700;
+        
+     
+}
+.numbers p{
+color: #9EA2B1;
+font-family: 'Archivo';
+   
+}
+
+.image{
+    width: 50px;
+    
+   
+}
+.img1{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    
+
+}
+.divimage{
+position: relative;
+}
